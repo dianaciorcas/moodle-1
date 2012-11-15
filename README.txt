@@ -1,4 +1,5 @@
-QUICK INSTALL
+this is a test
+INSTALL
 =============
 
 For the impatient, here is a basic outline of the
